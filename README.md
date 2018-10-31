@@ -3,7 +3,7 @@
 
 <code>
 
-// configure User name<br>
+// configure User name
 $ git config --global user.name "git username"<br><br>
 
 // configure User email<br>
@@ -27,17 +27,6 @@ $ git push -u origin master
 
 
 
-
-
-
- 
-
-
-
 </code>
 
-<style>
-body{font-family: 'Raleway', sans-serif; padding:20px;}
-body h1{margin:0; padding:20px 0 0; }
-</style>
 
